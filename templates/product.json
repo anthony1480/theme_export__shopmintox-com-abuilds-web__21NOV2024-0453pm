@@ -19,17 +19,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "fera_product_reviews_summary_mB8HRJ": {
-          "type": "shopify://apps/fera/blocks/product_reviews_summary/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
-          "settings": {
-            "star_color": "#5dd18d",
-            "size": 18,
-            "show_count": true,
-            "show_avg_rating": false,
-            "alignment": "left",
-            "hide_when_no_reviews": true
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -50,7 +39,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "✨ Instant and Lasting Fresh Breath",
+            "text": "✨ Instant Freshness",
             "text_style": "body"
           }
         },
@@ -58,7 +47,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "✅ No Sugars or Sugar-Alcohols",
+            "text": "✅ 98% Added Energy",
             "text_style": "body"
           }
         },
@@ -66,23 +55,15 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "🦷 Dentist-Approved",
-            "text_style": "body"
-          }
-        },
-        "text_tkjA7e": {
-          "type": "text",
-          "settings": {
-            "icon": "none",
-            "text": "🚫 No Alcohol",
+            "text": "😤 Breathe Like Never Before",
             "text_style": "body"
           }
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_quantity_selector": false,
-            "show_dynamic_checkout": false,
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
         },
@@ -104,20 +85,18 @@
         }
       },
       "block_order": [
-        "fera_product_reviews_summary_mB8HRJ",
         "title",
         "price",
         "text_qngz3b",
         "vendor",
         "text_UW7N8C",
-        "text_tkjA7e",
         "buy_buttons",
         "custom_liquid_WMycmt",
         "sticky_cart",
         "description_ekbifh"
       ],
       "custom_css": [
-        ".button {color: white;}",
+        ".button {color: black;}",
         ".product__tax.caption.rte {display: none;}",
         "button.product-form__submit.button.button--full-width {animation: shake-animation 4.72s ease infinite; transform-origin: 50% 50%;}",
         ".prvw__branding_link {display: none;}"
@@ -145,7 +124,6 @@
         "image_66exmw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/sugar-free-50.png",
             "height": 40,
             "link": ""
           }
@@ -164,7 +142,6 @@
         "image_tVMCMY": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/no-alcohol-60.png",
             "height": 40,
             "link": ""
           }
@@ -183,7 +160,6 @@
         "image_UGzWBT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/dentist-100.png",
             "height": 40,
             "link": ""
           }
@@ -268,20 +244,6 @@
     },
     "17221268994058c0a9": {
       "type": "apps",
-      "blocks": {
-        "fera_product_reviews_8FkyCJ": {
-          "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
-          "settings": {
-            "heading": "Product Reviews",
-            "layout": "masonry",
-            "star_color": "#5dd18d",
-            "when_no_reviews": "show_from_related"
-          }
-        }
-      },
-      "block_order": [
-        "fera_product_reviews_8FkyCJ"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": true,
