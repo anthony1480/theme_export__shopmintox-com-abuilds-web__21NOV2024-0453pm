@@ -16,9 +16,50 @@
         "padding_top": 60,
         "padding_bottom": 72
       }
+    },
+    "image_with_text_MDmtAL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4bMJyh": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Viral Strips you need",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4bMJyh"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Untitled_design_1.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_with_text_MDmtAL"
   ]
 }
