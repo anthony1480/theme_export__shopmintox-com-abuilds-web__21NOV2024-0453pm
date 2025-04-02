@@ -196,7 +196,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "✅ No Sugars or Sugar-Alcohols",
+            "text": "✅ 98% Better Performance",
             "text_style": "body"
           }
         },
@@ -204,7 +204,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "🦷 Dentist-Approved",
+            "text": "😤 Better Energy",
             "text_style": "body"
           }
         },
@@ -212,7 +212,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "🚫 No Alcohol",
+            "text": "🚫 No Side Effects",
             "text_style": "body"
           }
         },
@@ -233,7 +233,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_quantity_selector": true,
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
         },
