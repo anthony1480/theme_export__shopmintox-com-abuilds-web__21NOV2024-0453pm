@@ -444,6 +444,7 @@
         "image-0": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/NAFASI_1.png",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h5",
@@ -456,6 +457,7 @@
         "image-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_5788.jpg",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h5",
@@ -468,6 +470,7 @@
         "image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_5785.jpg",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h4",
@@ -480,6 +483,7 @@
         "image-4": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_5786.jpg",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h5",
@@ -523,7 +527,7 @@
             "icon": "heart",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Cruelty-Free",
+            "title": "Effectiveness",
             "title_size": "h4",
             "text": ""
           }
