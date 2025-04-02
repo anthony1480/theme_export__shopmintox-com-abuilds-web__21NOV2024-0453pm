@@ -56,10 +56,9 @@
     "header": {
       "type": "header",
       "settings": {
-        "logo": "shopify://shop_images/mintox_green_png.png",
-        "mobile_logo": "shopify://shop_images/mintox_green_png.png",
-        "logo_height": 50,
-        "mobile_logo_height": 44,
+        "logo": "shopify://shop_images/NAFASI_2-removebg-preview.png",
+        "logo_height": 98,
+        "mobile_logo_height": 104,
         "logo_position": "top-center",
         "menu": "main-menu",
         "menu_mobile": "main-menu",
@@ -72,8 +71,6 @@
         "enable_language_selector": false,
         "enable_sticky_header": true,
         "show_sticky_header_scroll_up": true,
-        "transparent_logo": "shopify://shop_images/mintox_t.png",
-        "mobile_transparent_logo": "shopify://shop_images/mintox_t.png",
         "enable_transparent_header": true,
         "enable_transparent_header_collection": false,
         "enable_transparent_header_custom": "",
