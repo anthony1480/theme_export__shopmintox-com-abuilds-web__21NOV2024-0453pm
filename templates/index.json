@@ -284,42 +284,13 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_HcMTNB": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "mintox-products",
-        "products_to_show": 4,
-        "horizontal_scroll": false,
-        "show_view_all": true,
-        "show_divider": false,
-        "heading": "Check our collection!",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": false,
-        "secondary_image_max": 1,
-        "show_vendor": false,
-        "show_rating": false,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": false,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Instant Result!",
+            "heading": "98% Better Results",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -327,7 +298,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Spray gives you a fresh breath instantly after spraying 2 times only, and will last you the whole day!</p>",
+            "text": "<p>Our tape is made by professional Athletes to help you achieve better life performance in General with extra Energy</p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -336,7 +307,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "shopify://products/mintox",
+            "button_link": "shopify://products/nafasi-tape",
             "button_size": "medium",
             "button_style_secondary": false
           }
@@ -348,6 +319,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/IMG_5785.jpg",
         "image_position": "center center",
         "text_box_position": "flex-end",
         "text_alignment": "left",
@@ -375,40 +347,32 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>I got one for my boyfriend and now I can finally kiss him in peace!</p>",
-            "author": "Leila K."
+            "text": "<p>This is the best thing i have ever bought, i just love it.</p>",
+            "author": "Layal. K"
           }
         },
         "testimonial-1": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Thanks to mintox for eliminating my bad breath🙏</p>",
-            "author": "Mhamad T."
+            "text": "<p>Wow, sar menkhare byes7ab baher</p>",
+            "author": "Ali. T"
           }
         },
         "testimonial-2": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Since I got mintox I feel so much more confident talking to people!</p>",
-            "author": "Elie D."
+            "text": "<p>Ouf men wa2et ma jebta w nashat levels on the roof</p>",
+            "author": "Elias . D"
           }
         },
         "testimonial-3": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>If you have bad breath mintox spray is the only solution</p>",
-            "author": "Lea R."
-          }
-        },
-        "testimonial-4": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>I got one for my kids. IT'S PERFECT</p>",
-            "author": "Murielle H."
+            "text": "<p>Tlo3na sarlna 20 sene ma mnetnafas mazbout</p>",
+            "author": "Charbel .M"
           }
         }
       },
@@ -416,8 +380,7 @@
         "testimonial-0",
         "testimonial-1",
         "testimonial-2",
-        "testimonial-3",
-        "testimonial-4"
+        "testimonial-3"
       ],
       "settings": {
         "autorotate": false,
@@ -449,7 +412,7 @@
             "text": "<p>@Nafasitape</p>",
             "text_size": "typeset2",
             "secondary_color": true,
-            "highlight_phrases": "shopmintox",
+            "highlight_phrases": "@Nafasitape",
             "highlight_style": "underline"
           }
         }
@@ -632,7 +595,6 @@
     "rich-text-0",
     "scrolling_promotion_CxGWma",
     "featured_product_p4Wgkb",
-    "featured_collection_HcMTNB",
     "image-with-text-overlay",
     "testimonials",
     "rich-text-1",
