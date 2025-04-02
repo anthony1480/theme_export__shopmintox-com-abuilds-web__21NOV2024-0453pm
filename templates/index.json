@@ -264,7 +264,7 @@
         "read_more_EN8fQF"
       ],
       "custom_css": [
-        ".button {color: white;}",
+        ".button {color: black;}",
         ".product__tax.caption.rte {display: none;}",
         "button.product-form__submit.button.button--full-width {animation: shake-animation 4.72s ease infinite; transform-origin: 50% 50%;}"
       ],
