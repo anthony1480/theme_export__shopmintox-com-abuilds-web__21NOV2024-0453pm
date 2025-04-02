@@ -15,13 +15,11 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_9c510e96-81d7-4293-b6d3-d0b6115f817f.jpg",
-            "image_mobile": "shopify://shop_images/banner_9c510e96-81d7-4293-b6d3-d0b6115f817f.jpg",
             "image_position": "20% 50%",
             "text_box_position": "bottom-left",
             "subheading": "",
             "subheading_size": "h5",
-            "heading": "Instant Fresh Breath",
+            "heading": "",
             "heading_size": "h0",
             "heading_tag": "h2",
             "text": "",
@@ -65,7 +63,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Enjoy Natural Freshness",
+            "heading": "",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -73,7 +71,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Mintox Fresh Breath Spray is<strong> free from harsh chemicals and artificial colors,</strong> offering a fresh breath that lasts the whole day.</p>",
+            "text": "",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -111,7 +109,6 @@
         "image_LACDqz": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/sugar-free-50.png",
             "height": 40,
             "link": ""
           }
@@ -122,7 +119,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Sugar-Free",
+            "text": "",
             "text_size": 20,
             "link": ""
           }
@@ -130,7 +127,6 @@
         "image_fe6bCr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/no-alcohol-60.png",
             "height": 44,
             "link": ""
           }
@@ -141,7 +137,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Alcohol-Free",
+            "text": "",
             "text_size": 20,
             "link": ""
           }
@@ -149,7 +145,6 @@
         "image_CLdqJk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/dentist-100.png",
             "height": 48,
             "link": ""
           }
@@ -160,7 +155,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Dentist-Approved",
+            "text": "",
             "text_size": 20,
             "link": ""
           }
@@ -375,7 +370,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/611A1486.jpg",
         "image_position": "center center",
         "text_box_position": "flex-end",
         "text_alignment": "left",
@@ -404,7 +398,6 @@
           "settings": {
             "icon": "5",
             "text": "<p>I got one for my boyfriend and now I can finally kiss him in peace!</p>",
-            "image": "shopify://shop_images/350447924_136587702762368_7589051804480980018_n.jpg",
             "author": "Leila K."
           }
         },
@@ -413,7 +406,6 @@
           "settings": {
             "icon": "5",
             "text": "<p>Thanks to mintox for eliminating my bad breath🙏</p>",
-            "image": "shopify://shop_images/357653340_1446749712832954_1434970432669837530_n.jpg",
             "author": "Mhamad T."
           }
         },
@@ -422,7 +414,6 @@
           "settings": {
             "icon": "5",
             "text": "<p>Since I got mintox I feel so much more confident talking to people!</p>",
-            "image": "shopify://shop_images/276172777_1306069569890781_1041436782469503566_n.jpg",
             "author": "Elie D."
           }
         },
@@ -431,7 +422,6 @@
           "settings": {
             "icon": "5",
             "text": "<p>If you have bad breath mintox spray is the only solution</p>",
-            "image": "shopify://shop_images/126502991_702661400609501_1054176598853084519_n.jpg",
             "author": "Lea R."
           }
         },
@@ -440,7 +430,6 @@
           "settings": {
             "icon": "5",
             "text": "<p>I got one for my kids. IT'S PERFECT</p>",
-            "image": "shopify://shop_images/402165367_1193541078230299_294900454752211644_n.jpg",
             "author": "Murielle H."
           }
         }
@@ -479,7 +468,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>@shopmintox</p>",
+            "text": "<p>@Nafasitape</p>",
             "text_size": "typeset2",
             "secondary_color": true,
             "highlight_phrases": "shopmintox",
@@ -514,7 +503,6 @@
         "image-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_2.jpg",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h5",
@@ -527,7 +515,6 @@
         "image-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_15.png",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h5",
@@ -540,7 +527,6 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_1.jpg",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h4",
@@ -553,7 +539,6 @@
         "image-4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/611A1638_1.png",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h5",
