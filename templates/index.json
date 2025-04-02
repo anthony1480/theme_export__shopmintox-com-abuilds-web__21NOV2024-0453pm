@@ -65,7 +65,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "The Solution You Need",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -73,10 +73,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p><strong>98% Of people</strong> face lack of Energy thinking it's because of their diet but actually it's because of <strong>lack of oxygen</strong> into their heads, this is why NafasiTape has been a game changer for more than <strong>500 People</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false,
-            "highlight_phrases": "",
+            "highlight_phrases": "98% Of people\n500 People",
             "highlight_style": "circle"
           }
         }
@@ -108,28 +108,14 @@
     "scrolling_promotion_CxGWma": {
       "type": "scrolling-promotion",
       "blocks": {
-        "image_LACDqz": {
-          "type": "image",
-          "settings": {
-            "height": 40,
-            "link": ""
-          }
-        },
         "announcement_FTAKfB": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "",
+            "text": "More than 500 Satisfied Costumers",
             "text_size": 20,
-            "link": ""
-          }
-        },
-        "image_fe6bCr": {
-          "type": "image",
-          "settings": {
-            "height": 44,
             "link": ""
           }
         },
@@ -139,15 +125,8 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "",
+            "text": "Be the next one",
             "text_size": 20,
-            "link": ""
-          }
-        },
-        "image_CLdqJk": {
-          "type": "image",
-          "settings": {
-            "height": 48,
             "link": ""
           }
         },
@@ -157,18 +136,15 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "",
+            "text": "98% More Oxygen",
             "text_size": 20,
             "link": ""
           }
         }
       },
       "block_order": [
-        "image_LACDqz",
         "announcement_FTAKfB",
-        "image_fe6bCr",
         "announcement_gHjzFP",
-        "image_CLdqJk",
         "announcement_Jmt9RW"
       ],
       "settings": {
@@ -180,8 +156,8 @@
         "colors_text": "#ffffff",
         "colors_background": "#5dd18d",
         "gradient_background": "",
-        "padding_top": 4,
-        "padding_bottom": 4
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "featured_product_p4Wgkb": {
@@ -293,7 +269,7 @@
         "button.product-form__submit.button.button--full-width {animation: shake-animation 4.72s ease infinite; transform-origin: 50% 50%;}"
       ],
       "settings": {
-        "product": "mintox",
+        "product": "nafasi-tape",
         "layout": "media_first",
         "full_width": false,
         "show_divider": false,
