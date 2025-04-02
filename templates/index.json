@@ -1,0 +1,679 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner_9c510e96-81d7-4293-b6d3-d0b6115f817f.jpg",
+            "image_mobile": "shopify://shop_images/banner_9c510e96-81d7-4293-b6d3-d0b6115f817f.jpg",
+            "image_position": "20% 50%",
+            "text_box_position": "bottom-left",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Instant Fresh Breath",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset2",
+            "button_label": "Get it Now",
+            "button_link": "shopify://products/mintox",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "slide-0"
+      ],
+      "settings": {
+        "slideshow_type": "legacy",
+        "text_alignment": "left",
+        "image_ratio": "100vh",
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "full_width": true,
+        "image_behavior": "none",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "600px",
+        "show_text_below": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#5dd18d",
+        "colors_text": "#ffffff",
+        "colors_background": "#ffffff",
+        "colors_overlay": "#1a1b18",
+        "colors_overlay_opacity": 16,
+        "colors_navigation_text": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-0": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Enjoy Natural Freshness",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mintox Fresh Breath Spray is<strong> free from harsh chemicals and artificial colors,</strong> offering a fresh breath that lasts the whole day.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "custom_css": [
+        "h2 {text-decoration: underline; text-decoration-color: #5dd18d;}"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": true,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#5dd18d",
+        "gradient_background": "",
+        "padding_top": 16,
+        "padding_bottom": 28
+      }
+    },
+    "scrolling_promotion_CxGWma": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "image_LACDqz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sugar-free-50.png",
+            "height": 40,
+            "link": ""
+          }
+        },
+        "announcement_FTAKfB": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Sugar-Free",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "image_fe6bCr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/no-alcohol-60.png",
+            "height": 44,
+            "link": ""
+          }
+        },
+        "announcement_gHjzFP": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Alcohol-Free",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "image_CLdqJk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/dentist-100.png",
+            "height": 48,
+            "link": ""
+          }
+        },
+        "announcement_Jmt9RW": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Dentist-Approved",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_LACDqz",
+        "announcement_FTAKfB",
+        "image_fe6bCr",
+        "announcement_gHjzFP",
+        "image_CLdqJk",
+        "announcement_Jmt9RW"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#5dd18d",
+        "gradient_background": "",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "featured_product_p4Wgkb": {
+      "type": "featured-product",
+      "blocks": {
+        "rating_XD9eya": {
+          "type": "rating",
+          "settings": {}
+        },
+        "title_4VFwKw": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "title_tag": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "price_Ama3iF": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "value"
+          }
+        },
+        "text_TEJ66H": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "✨ Instant Fresh Breath",
+            "text_style": "body"
+          }
+        },
+        "text_nRKnf3": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "✅ No Sugars or Sugar-Alcohols",
+            "text_style": "body"
+          }
+        },
+        "text_kxHhrK": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "🦷 Dentist-Approved",
+            "text_style": "body"
+          }
+        },
+        "text_JkKzDb": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "🚫 No Alcohol",
+            "text_style": "body"
+          }
+        },
+        "variant_picker_PDD7c3": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
+        "buy_buttons_LnCkfg": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "custom_liquid_pmCaHr": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"padding: 16px; text-align: left; background-color: #f5f5f5; font-size: 15px; border-radius: 6px; margin-top: 16px; margin-bottom: 16px; display: flex; align-items: center;\"> \n    <span class=\"em\" style=\"margin-right: 8px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"#5f6368\">\n            <path d=\"M240-160q-50 0-85-35t-35-85H40v-440q0-33 23.5-56.5T120-800h560v160h120l120 160v200h-80q0 50-35 85t-85 35q-50 0-85-35t-35-85H360q0 50-35 85t-85 35Zm0-80q17 0 28.5-11.5T280-280q0-17-11.5-28.5T240-320q-17 0-28.5 11.5T200-280q0 17 11.5 28.5T240-240ZM120-360h32q17-18 39-29t49-11q27 0 49 11t39 29h272v-360H120v360Zm600 120q17 0 28.5-11.5T760-280q0-17-11.5-28.5T720-320q-17 0-28.5 11.5T680-280q0 17 11.5 28.5T720-240Zm-40-200h170l-90-120h-80v120ZM360-540Z\"/>\n        </svg> \n    </span>\n    <span>Order now to receive on <span id=\"delivery-dates\" style=\"font-weight: bold;\"></span></span>\n</div>\n\n<script>\n    document.addEventListener('DOMContentLoaded', function() {\n        var currentDate = new Date();\n        var minDeliveryDate = new Date();\n        minDeliveryDate.setDate(currentDate.getDate() + 1); // 1 day from now\n\n        var maxDeliveryDate = new Date();\n        maxDeliveryDate.setDate(currentDate.getDate() + 2); // 2 days from now\n\n        var formatDate = function(date) {\n            var monthNames = [\"January\", \"February\", \"March\", \"April\", \"May\", \"June\",\n              \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"\n            ];\n            var day = date.getDate();\n            var monthIndex = date.getMonth();\n            return monthNames[monthIndex] + \" \" + day;\n        };\n\n        var deliverySpan = document.getElementById('delivery-dates');\n        deliverySpan.textContent = formatDate(minDeliveryDate) + ' - ' + formatDate(maxDeliveryDate);\n    });\n</script>"
+          }
+        },
+        "read_more_EN8fQF": {
+          "type": "read_more",
+          "settings": {
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "rating_XD9eya",
+        "title_4VFwKw",
+        "price_Ama3iF",
+        "text_TEJ66H",
+        "text_nRKnf3",
+        "text_kxHhrK",
+        "text_JkKzDb",
+        "variant_picker_PDD7c3",
+        "buy_buttons_LnCkfg",
+        "custom_liquid_pmCaHr",
+        "read_more_EN8fQF"
+      ],
+      "custom_css": [
+        ".button {color: white;}",
+        ".product__tax.caption.rte {display: none;}",
+        "button.product-form__submit.button.button--full-width {animation: shake-animation 4.72s ease infinite; transform-origin: 50% 50%;}"
+      ],
+      "settings": {
+        "product": "mintox",
+        "layout": "media_first",
+        "full_width": false,
+        "show_divider": false,
+        "show_featured_media": false,
+        "hide_variants": false,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "image_ratio": "square",
+        "image_position": "center center",
+        "enable_layered_images": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_HcMTNB": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "mintox-products",
+        "products_to_show": 4,
+        "horizontal_scroll": false,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Check our collection!",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": false,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Instant Result!",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Spray gives you a fresh breath instantly after spraying 2 times only, and will last you the whole day!</p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/mintox",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/611A1486.jpg",
+        "image_position": "center center",
+        "text_box_position": "flex-end",
+        "text_alignment": "left",
+        "image_ratio": "550px",
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_text_box_position": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "200px",
+        "video_url": "",
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_overlay": "#fbf7ed",
+        "colors_overlay_opacity": 80,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I got one for my boyfriend and now I can finally kiss him in peace!</p>",
+            "image": "shopify://shop_images/350447924_136587702762368_7589051804480980018_n.jpg",
+            "author": "Leila K."
+          }
+        },
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Thanks to mintox for eliminating my bad breath🙏</p>",
+            "image": "shopify://shop_images/357653340_1446749712832954_1434970432669837530_n.jpg",
+            "author": "Mhamad T."
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Since I got mintox I feel so much more confident talking to people!</p>",
+            "image": "shopify://shop_images/276172777_1306069569890781_1041436782469503566_n.jpg",
+            "author": "Elie D."
+          }
+        },
+        "testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>If you have bad breath mintox spray is the only solution</p>",
+            "image": "shopify://shop_images/126502991_702661400609501_1054176598853084519_n.jpg",
+            "author": "Lea R."
+          }
+        },
+        "testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I got one for my kids. IT'S PERFECT</p>",
+            "image": "shopify://shop_images/402165367_1193541078230299_294900454752211644_n.jpg",
+            "author": "Murielle H."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-0",
+        "testimonial-1",
+        "testimonial-2",
+        "testimonial-3",
+        "testimonial-4"
+      ],
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "hide_images": false,
+        "show_divider": false,
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stay in touch!",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>@shopmintox</p>",
+            "text_size": "typeset2",
+            "secondary_color": true,
+            "highlight_phrases": "shopmintox",
+            "highlight_style": "underline"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "gallery": {
+      "type": "gallery",
+      "blocks": {
+        "image-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_15.png",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h4",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/611A1638_1.png",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "image-0",
+        "image-3",
+        "image-1",
+        "image-4"
+      ],
+      "settings": {
+        "per_row": 5,
+        "spacing_images": 0,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Cruelty-Free",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "headset",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "24/7 Support",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "star",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Instant Result",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "shield",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "100% Safe",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-0",
+        "guarantee-1",
+        "guarantee-2",
+        "guarantee-3"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Our Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#5dd18d",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "rich-text-0",
+    "scrolling_promotion_CxGWma",
+    "featured_product_p4Wgkb",
+    "featured_collection_HcMTNB",
+    "image-with-text-overlay",
+    "testimonials",
+    "rich-text-1",
+    "gallery",
+    "guarantees"
+  ]
+}
