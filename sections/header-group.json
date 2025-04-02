@@ -23,6 +23,15 @@
             "link": ""
           }
         },
+        "announcement_WrHFMn": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Delivery",
+            "text_on_mobile": "",
+            "text_size": 13,
+            "link": ""
+          }
+        },
         "announcement_wYmyxh": {
           "type": "announcement",
           "settings": {
@@ -35,6 +44,7 @@
       },
       "block_order": [
         "announcement-bar-0",
+        "announcement_WrHFMn",
         "announcement_wYmyxh"
       ],
       "settings": {
