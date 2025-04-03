@@ -84,7 +84,7 @@
         "sticky_cart": {
           "type": "sticky_cart",
           "settings": {
-            "show_quantity_selector": false
+            "show_quantity_selector": true
           }
         }
       },
