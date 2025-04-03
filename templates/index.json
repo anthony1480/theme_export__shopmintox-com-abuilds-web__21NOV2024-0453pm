@@ -340,6 +340,57 @@
         "padding_bottom": 36
       }
     },
+    "images_with_text_GQDeCh": {
+      "type": "images-with-text",
+      "blocks": {
+        "heading_GRcmKn": {
+          "type": "heading",
+          "settings": {
+            "heading": "With Over 100+ Athletes Using it",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_U7BLhR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nafasi has been a game changer for most, specially in winter while everyone is having the flu. Breathe Better Forever</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_eRcdn6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Remove My Flu",
+            "button_link": "shopify://products/nafasi-tape",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GRcmKn",
+        "text_U7BLhR",
+        "button_eRcdn6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_5786.jpg",
+        "image_2": "shopify://shop_images/IMG_5787.jpg",
+        "image_3": "shopify://shop_images/IMG_5785.jpg",
+        "image_4": "shopify://shop_images/IMG_5788.jpg",
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
@@ -592,57 +643,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "images_with_text_GQDeCh": {
-      "type": "images-with-text",
-      "blocks": {
-        "heading_GRcmKn": {
-          "type": "heading",
-          "settings": {
-            "heading": "With Over 100+ Athletes Using it",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text_U7BLhR": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Nafasi has been a game changer for most, specially in winter while everyone is having the flu. Breathe Better Forever</p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        },
-        "button_eRcdn6": {
-          "type": "button",
-          "settings": {
-            "button_label": "Remove My Flu",
-            "button_link": "shopify://products/nafasi-tape",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_GRcmKn",
-        "text_U7BLhR",
-        "button_eRcdn6"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/IMG_5786.jpg",
-        "image_2": "shopify://shop_images/IMG_5787.jpg",
-        "image_3": "shopify://shop_images/IMG_5785.jpg",
-        "image_4": "shopify://shop_images/IMG_5788.jpg",
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
-        "full_width": false,
-        "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -651,10 +651,10 @@
     "scrolling_promotion_CxGWma",
     "featured_product_p4Wgkb",
     "image-with-text-overlay",
+    "images_with_text_GQDeCh",
     "testimonials",
     "rich-text-1",
     "gallery",
-    "guarantees",
-    "images_with_text_GQDeCh"
+    "guarantees"
   ]
 }
