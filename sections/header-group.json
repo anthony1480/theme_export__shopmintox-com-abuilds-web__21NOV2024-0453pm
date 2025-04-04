@@ -66,8 +66,8 @@
     "header": {
       "type": "header",
       "settings": {
-        "logo": "shopify://shop_images/IMG_2400.png",
-        "mobile_logo": "shopify://shop_images/IMG_2400.png",
+        "logo": "shopify://shop_images/IMG_2401.png",
+        "mobile_logo": "shopify://shop_images/IMG_2401.png",
         "logo_height": 62,
         "mobile_logo_height": 50,
         "logo_position": "top-center",
@@ -82,8 +82,8 @@
         "enable_language_selector": false,
         "enable_sticky_header": true,
         "show_sticky_header_scroll_up": true,
-        "transparent_logo": "shopify://shop_images/IMG_2400.png",
-        "mobile_transparent_logo": "shopify://shop_images/IMG_2400.png",
+        "transparent_logo": "shopify://shop_images/IMG_2401.png",
+        "mobile_transparent_logo": "shopify://shop_images/IMG_2401.png",
         "enable_transparent_header": true,
         "enable_transparent_header_collection": false,
         "enable_transparent_header_custom": "",
