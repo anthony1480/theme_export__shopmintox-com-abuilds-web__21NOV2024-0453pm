@@ -86,7 +86,7 @@
         "text"
       ],
       "custom_css": [
-        "h2 {text-decoration: underline; text-decoration-color: #5dd18d;}"
+        "h2 {text-decoration: underline; text-decoration-color: #D2D5D9;}"
       ],
       "settings": {
         "text_alignment": "center",
@@ -99,7 +99,7 @@
         "colors_button_background": "#1a1b18",
         "colors_text": "#212326",
         "colors_background": "#ffffff",
-        "colors_highlight": "#5dd18d",
+        "colors_highlight": "#d2d5d9",
         "gradient_background": "",
         "padding_top": 16,
         "padding_bottom": 28
