@@ -86,7 +86,7 @@
         "text"
       ],
       "custom_css": [
-        "h2 {text-decoration: underline; text-decoration-color: #D2D5D9;}"
+        "h2 {text-decoration: underline; text-decoration-color: #d2d5d9;}"
       ],
       "settings": {
         "text_alignment": "center",
@@ -114,7 +114,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "More than 500 Satisfied Costumers",
+            "text": "More than 30,000 Satisfied Costumers",
             "text_size": 20,
             "link": ""
           }
