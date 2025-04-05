@@ -15,9 +15,9 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5788.jpg",
-            "image_mobile": "shopify://shop_images/IMG_5788.jpg",
-            "image_position": "20% 50%",
+            "image": "shopify://shop_images/IMG_5787.jpg",
+            "image_mobile": "shopify://shop_images/IMG_5786.jpg",
+            "image_position": "center center",
             "text_box_position": "bottom-left",
             "subheading": "",
             "subheading_size": "h5",
