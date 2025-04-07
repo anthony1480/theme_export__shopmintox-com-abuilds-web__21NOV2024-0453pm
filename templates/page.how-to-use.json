@@ -23,7 +23,7 @@
         "heading_4bMJyh": {
           "type": "heading",
           "settings": {
-            "heading": "The Viral Strips you need",
+            "heading": "3 Simple Steps to use",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -47,6 +47,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -56,10 +57,83 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_jwcwTc": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_AANLAh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Clean Your Nose",
+            "row_content": "<p>Wash your face or wipe the area around your nose with alcohol wipes to remove any oils or dirt. This ensures the tape adheres properly.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YCYmfG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Peel Off The Backing",
+            "row_content": "<p>Carefully remove the protective backing from the tape to expose the adhesive.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_key8zH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Position The Tape",
+            "row_content": "<p>Align the tape over the bridge of your nose, ensuring it sits comfortably without obstructing airflow.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_aMgbzh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Apply Pressure",
+            "row_content": "<p>Smooth the tape over your nose, pressing gently for a secure fit without creases for about 20 seconds.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_AANLAh",
+        "collapsible_row_YCYmfG",
+        "collapsible_row_key8zH",
+        "collapsible_row_aMgbzh"
+      ],
+      "settings": {
+        "open_first_collapsible_row": false,
+        "narrow": false,
+        "show_divider": false,
+        "heading": "How To Use Nafasi Nose Tape?",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_c8VzJH": {
+      "type": "video",
+      "settings": {
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/1121-01.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "How to use",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "image_with_text_MDmtAL"
+    "image_with_text_MDmtAL",
+    "collapsible_content_jwcwTc",
+    "video_c8VzJH"
   ]
 }
