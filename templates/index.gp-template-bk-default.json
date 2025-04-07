@@ -1,0 +1,646 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "order": [
+    "slideshow",
+    "rich-text-0",
+    "scrolling_promotion_CxGWma",
+    "featured_product_p4Wgkb",
+    "image-with-text-overlay",
+    "images_with_text_GQDeCh",
+    "testimonials",
+    "rich-text-1",
+    "gallery",
+    "guarantees"
+  ],
+  "sections": {
+    "featured_product_p4Wgkb": {
+      "block_order": [
+        "rating_XD9eya",
+        "title_4VFwKw",
+        "price_Ama3iF",
+        "text_TEJ66H",
+        "text_nRKnf3",
+        "text_kxHhrK",
+        "text_JkKzDb",
+        "variant_picker_PDD7c3",
+        "buy_buttons_LnCkfg",
+        "custom_liquid_pmCaHr",
+        "read_more_EN8fQF"
+      ],
+      "blocks": {
+        "buy_buttons_LnCkfg": {
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
+            "show_quantity_selector": true
+          },
+          "type": "buy_buttons"
+        },
+        "custom_liquid_pmCaHr": {
+          "settings": {
+            "custom_liquid": "<div style=\"padding: 16px; text-align: left; background-color: #f5f5f5; font-size: 15px; border-radius: 6px; margin-top: 16px; margin-bottom: 16px; display: flex; align-items: center;\"> \n    <span class=\"em\" style=\"margin-right: 8px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"#5f6368\">\n            <path d=\"M240-160q-50 0-85-35t-35-85H40v-440q0-33 23.5-56.5T120-800h560v160h120l120 160v200h-80q0 50-35 85t-85 35q-50 0-85-35t-35-85H360q0 50-35 85t-85 35Zm0-80q17 0 28.5-11.5T280-280q0-17-11.5-28.5T240-320q-17 0-28.5 11.5T200-280q0 17 11.5 28.5T240-240ZM120-360h32q17-18 39-29t49-11q27 0 49 11t39 29h272v-360H120v360Zm600 120q17 0 28.5-11.5T760-280q0-17-11.5-28.5T720-320q-17 0-28.5 11.5T680-280q0 17 11.5 28.5T720-240Zm-40-200h170l-90-120h-80v120ZM360-540Z\"/>\n        </svg> \n    </span>\n    <span>Order now to receive with FREE DELIVERY <span id=\"delivery-dates\" style=\"font-weight: bold;\"></span></span>\n</div>\n\n<script>\n    document.addEventListener('DOMContentLoaded', function() {\n        var currentDate = new Date();\n        var minDeliveryDate = new Date();\n        minDeliveryDate.setDate(currentDate.getDate() + 1); // 1 day from now\n\n        var maxDeliveryDate = new Date();\n        maxDeliveryDate.setDate(currentDate.getDate() + 2); // 2 days from now\n\n        var formatDate = function(date) {\n            var monthNames = [\"January\", \"February\", \"March\", \"April\", \"May\", \"June\",\n              \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"\n            ];\n            var day = date.getDate();\n            var monthIndex = date.getMonth();\n            return monthNames[monthIndex] + \" \" + day;\n        };\n\n        var deliverySpan = document.getElementById('delivery-dates');\n        deliverySpan.textContent = formatDate(minDeliveryDate) + ' - ' + formatDate(maxDeliveryDate);\n    });\n</script>"
+          },
+          "type": "custom_liquid"
+        },
+        "price_Ama3iF": {
+          "settings": {
+            "price_size": "medium",
+            "sale_badge_basis": "value",
+            "show_badges": true
+          },
+          "type": "price"
+        },
+        "rating_XD9eya": {
+          "settings": {},
+          "type": "rating"
+        },
+        "read_more_EN8fQF": {
+          "settings": {
+            "show_icon": false
+          },
+          "type": "read_more"
+        },
+        "text_JkKzDb": {
+          "settings": {
+            "icon": "none",
+            "text": "🚫 No Side Effects",
+            "text_style": "body"
+          },
+          "type": "text"
+        },
+        "text_TEJ66H": {
+          "settings": {
+            "icon": "none",
+            "text": "✨ Instant Fresh Breath",
+            "text_style": "body"
+          },
+          "type": "text"
+        },
+        "text_kxHhrK": {
+          "settings": {
+            "icon": "none",
+            "text": "😤 Better Energy Levels",
+            "text_style": "body"
+          },
+          "type": "text"
+        },
+        "text_nRKnf3": {
+          "settings": {
+            "icon": "none",
+            "text": "✅ 98% Better Performance",
+            "text_style": "body"
+          },
+          "type": "text"
+        },
+        "title_4VFwKw": {
+          "settings": {
+            "price_size": "medium",
+            "show_price": false,
+            "title_size": "h2",
+            "title_tag": "h2"
+          },
+          "type": "title"
+        },
+        "variant_picker_PDD7c3": {
+          "settings": {
+            "enable_color_swatches": true,
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "picker_type": "button",
+            "show_variant_labels": true,
+            "size_chart": "",
+            "swatch_type": "round",
+            "swatches_source": "file"
+          },
+          "type": "variant_picker"
+        }
+      },
+      "custom_css": [
+        ".button {color: black;}",
+        ".product__tax.caption.rte {display: none;}",
+        "button.product-form__submit.button.button--full-width {animation: shake-animation 4.72s ease infinite; transform-origin: 50% 50%;}"
+      ],
+      "settings": {
+        "enable_image_zoom": true,
+        "enable_layered_images": false,
+        "enable_video_looping": false,
+        "full_width": false,
+        "hide_variants": false,
+        "image_position": "center center",
+        "image_ratio": "square",
+        "layout": "media_first",
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "product": "nafasi-tape",
+        "show_divider": false,
+        "show_featured_media": false
+      },
+      "type": "featured-product"
+    },
+    "gallery": {
+      "block_order": [
+        "image-3",
+        "image-1",
+        "image-4"
+      ],
+      "blocks": {
+        "image-1": {
+          "settings": {
+            "heading": "",
+            "heading_size": "h3",
+            "image": "shopify://shop_images/IMG_5785.jpg",
+            "image_position": "center center",
+            "link": "",
+            "subheading": "",
+            "subheading_size": "h4",
+            "text_box_position": "middle-center"
+          },
+          "type": "image"
+        },
+        "image-3": {
+          "settings": {
+            "heading": "",
+            "heading_size": "h3",
+            "image": "shopify://shop_images/IMG_5788.jpg",
+            "image_position": "center center",
+            "link": "",
+            "subheading": "",
+            "subheading_size": "h5",
+            "text_box_position": "middle-center"
+          },
+          "type": "image"
+        },
+        "image-4": {
+          "settings": {
+            "heading": "",
+            "heading_size": "h3",
+            "image": "shopify://shop_images/IMG_5786.jpg",
+            "image_position": "center center",
+            "link": "",
+            "subheading": "",
+            "subheading_size": "h5",
+            "text_box_position": "middle-center"
+          },
+          "type": "image"
+        }
+      },
+      "settings": {
+        "apply_overlay": true,
+        "columns_mobile": "1",
+        "full_width": false,
+        "heading": "",
+        "heading_alignment": "center",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "image_height": 280,
+        "mobile_image_height": 160,
+        "padding_bottom": 0,
+        "padding_top": 0,
+        "per_row": 5,
+        "show_divider": false,
+        "spacing_images": 0,
+        "swipe_on_mobile": true
+      },
+      "type": "gallery"
+    },
+    "guarantees": {
+      "block_order": [
+        "guarantee-0",
+        "guarantee-1",
+        "guarantee-2",
+        "guarantee-3"
+      ],
+      "blocks": {
+        "guarantee-0": {
+          "settings": {
+            "custom_icon": "",
+            "icon": "heart",
+            "icon_size": "medium",
+            "text": "",
+            "title": "Effectiveness",
+            "title_size": "h4"
+          },
+          "type": "guarantee"
+        },
+        "guarantee-1": {
+          "settings": {
+            "custom_icon": "",
+            "icon": "headset",
+            "icon_size": "medium",
+            "text": "",
+            "title": "24/7 Support",
+            "title_size": "h4"
+          },
+          "type": "guarantee"
+        },
+        "guarantee-2": {
+          "settings": {
+            "custom_icon": "",
+            "icon": "star",
+            "icon_size": "medium",
+            "text": "",
+            "title": "Instant Result",
+            "title_size": "h4"
+          },
+          "type": "guarantee"
+        },
+        "guarantee-3": {
+          "settings": {
+            "custom_icon": "",
+            "icon": "shield",
+            "icon_size": "medium",
+            "text": "",
+            "title": "100% Safe",
+            "title_size": "h4"
+          },
+          "type": "guarantee"
+        }
+      },
+      "settings": {
+        "colors_background": "#ffffff",
+        "colors_icon": "#ffffff",
+        "colors_text": "#5dd18d",
+        "column_alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "full_width": false,
+        "gradient_background": "",
+        "heading": "Our Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "horizontal_content": false,
+        "layout": "default",
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "show_divider": false,
+        "swipe_on_mobile": false,
+        "use_custom_colors": false
+      },
+      "type": "guarantees"
+    },
+    "image-with-text-overlay": {
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "blocks": {
+        "button": {
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/nafasi-tape",
+            "button_size": "medium",
+            "button_style_secondary": false
+          },
+          "type": "button"
+        },
+        "heading": {
+          "settings": {
+            "heading": "98% Better Results",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          },
+          "type": "heading"
+        },
+        "text": {
+          "settings": {
+            "secondary_color": false,
+            "text": "<p>Our tape is made by professional Athletes to help you achieve better life performance in General with extra Energy</p>",
+            "text_size": "typeset"
+          },
+          "type": "text"
+        }
+      },
+      "settings": {
+        "colors_button_background": "#1a1b18",
+        "colors_button_label": "#ffffff",
+        "colors_overlay": "#fbf7ed",
+        "colors_overlay_opacity": 80,
+        "colors_text": "#212326",
+        "full_width": true,
+        "image": "shopify://shop_images/IMG_5785.jpg",
+        "image_behavior": "none",
+        "image_position": "center center",
+        "image_ratio": "550px",
+        "mobile_image_ratio": "200px",
+        "mobile_text_alignment": "left",
+        "mobile_text_box_position": "image_first",
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "show_divider": false,
+        "text_alignment": "left",
+        "text_box_position": "flex-end",
+        "video_url": ""
+      },
+      "type": "image-with-text-overlay"
+    },
+    "images_with_text_GQDeCh": {
+      "block_order": [
+        "heading_GRcmKn",
+        "text_U7BLhR",
+        "button_eRcdn6"
+      ],
+      "blocks": {
+        "button_eRcdn6": {
+          "settings": {
+            "button_label": "Remove My Flu",
+            "button_link": "shopify://products/nafasi-tape",
+            "button_size": "medium",
+            "button_style_secondary": false
+          },
+          "type": "button"
+        },
+        "heading_GRcmKn": {
+          "settings": {
+            "heading": "With Over 100+ Athletes Using it",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          },
+          "type": "heading"
+        },
+        "text_U7BLhR": {
+          "settings": {
+            "secondary_color": false,
+            "text": "<p>Nafasi has been a game changer for most, specially in winter while everyone is having the flu. Breathe Better Forever</p>",
+            "text_size": "typeset2"
+          },
+          "type": "text"
+        }
+      },
+      "settings": {
+        "full_width": false,
+        "image": "shopify://shop_images/IMG_5786.jpg",
+        "image_2": "shopify://shop_images/IMG_5787.jpg",
+        "image_3": "shopify://shop_images/IMG_5785.jpg",
+        "image_4": "shopify://shop_images/IMG_5788.jpg",
+        "image_position": "center center",
+        "image_ratio": "portrait",
+        "layout": "image_first",
+        "mobile_text_alignment": "left",
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "show_divider": false,
+        "text_alignment": "left",
+        "text_box_position": "middle"
+      },
+      "type": "images-with-text"
+    },
+    "rich-text-0": {
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "blocks": {
+        "heading": {
+          "settings": {
+            "heading": "The Solution You Need",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          },
+          "type": "heading"
+        },
+        "text": {
+          "settings": {
+            "highlight_phrases": "98% Of people\n30,000 People",
+            "highlight_style": "circle",
+            "secondary_color": false,
+            "text": "<p><strong>98% Of people</strong> face lack of Energy thinking it's because of their diet but actually it's because of <strong>lack of oxygen</strong> into their heads, this is why NafasiTape has been a game changer for more than <strong>30,000 People</strong></p>",
+            "text_size": "typeset2"
+          },
+          "type": "text"
+        }
+      },
+      "custom_css": [
+        "h2 {text-decoration: underline; text-decoration-color: #d2d5d9;}"
+      ],
+      "settings": {
+        "colors_background": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_button_label": "#ffffff",
+        "colors_highlight": "#d2d5d9",
+        "colors_text": "#212326",
+        "gradient_background": "",
+        "horizontal_content": false,
+        "mobile_text_alignment": "center",
+        "narrow": true,
+        "padding_bottom": 28,
+        "padding_top": 16,
+        "show_divider": false,
+        "text_alignment": "center",
+        "use_custom_colors": true
+      },
+      "type": "rich-text"
+    },
+    "rich-text-1": {
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "blocks": {
+        "heading": {
+          "settings": {
+            "heading": "Stay in touch!",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          },
+          "type": "heading"
+        },
+        "text": {
+          "settings": {
+            "highlight_phrases": "@Nafasitape",
+            "highlight_style": "circle",
+            "secondary_color": true,
+            "text": "<p><strong>@Nafasitape</strong></p>",
+            "text_size": "typeset2"
+          },
+          "type": "text"
+        }
+      },
+      "settings": {
+        "colors_background": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_button_label": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "colors_text": "#212326",
+        "gradient_background": "",
+        "horizontal_content": false,
+        "mobile_text_alignment": "center",
+        "narrow": false,
+        "padding_bottom": 28,
+        "padding_top": 36,
+        "show_divider": false,
+        "text_alignment": "center",
+        "use_custom_colors": false
+      },
+      "type": "rich-text"
+    },
+    "scrolling_promotion_CxGWma": {
+      "block_order": [
+        "announcement_FTAKfB",
+        "announcement_gHjzFP",
+        "announcement_Jmt9RW"
+      ],
+      "blocks": {
+        "announcement_FTAKfB": {
+          "settings": {
+            "custom_icon": "",
+            "icon": "none",
+            "icon_size": "medium",
+            "link": "",
+            "text": "More than 30,000 Satisfied Costumers",
+            "text_size": 20
+          },
+          "type": "announcement"
+        },
+        "announcement_Jmt9RW": {
+          "settings": {
+            "custom_icon": "",
+            "icon": "none",
+            "icon_size": "medium",
+            "link": "",
+            "text": "98% More Oxygen",
+            "text_size": 20
+          },
+          "type": "announcement"
+        },
+        "announcement_gHjzFP": {
+          "settings": {
+            "custom_icon": "",
+            "icon": "none",
+            "icon_size": "medium",
+            "link": "",
+            "text": "Be the next one",
+            "text_size": 20
+          },
+          "type": "announcement"
+        }
+      },
+      "settings": {
+        "colors_background": "#1a1b18",
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "direction": "left",
+        "gradient_background": "",
+        "padding_bottom": 12,
+        "padding_top": 12,
+        "show_divider": false,
+        "speed": 1.6,
+        "use_custom_colors": true
+      },
+      "type": "scrolling-promotion"
+    },
+    "slideshow": {
+      "block_order": [
+        "slide-0"
+      ],
+      "blocks": {
+        "slide-0": {
+          "settings": {
+            "button_label": "Breathe Better",
+            "button_link": "shopify://products/nafasi-tape",
+            "button_size": "medium",
+            "button_style_secondary": false,
+            "heading": "",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "image": "shopify://shop_images/IMG_5787.jpg",
+            "image_mobile": "shopify://shop_images/IMG_5788.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "text": "",
+            "text_box_position": "bottom-left",
+            "text_size": "typeset2"
+          },
+          "type": "image"
+        }
+      },
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "colors_background": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_button_label": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "colors_navigation_text": "#ffffff",
+        "colors_overlay": "#1a1b18",
+        "colors_overlay_opacity": 16,
+        "colors_text": "#ffffff",
+        "full_width": true,
+        "image_behavior": "none",
+        "image_ratio": "100vh",
+        "mobile_image_ratio": "600px",
+        "mobile_text_alignment": "left",
+        "padding_bottom": 36,
+        "padding_top": 0,
+        "show_text_below": false,
+        "slideshow_type": "legacy",
+        "text_alignment": "left"
+      },
+      "type": "slideshow"
+    },
+    "testimonials": {
+      "block_order": [
+        "testimonial-0",
+        "testimonial-1",
+        "testimonial-2",
+        "testimonial-3"
+      ],
+      "blocks": {
+        "testimonial-0": {
+          "settings": {
+            "author": "Layal. K",
+            "icon": "5",
+            "text": "<p>This is the best thing i have ever bought, i just love it.</p>"
+          },
+          "type": "testimonial"
+        },
+        "testimonial-1": {
+          "settings": {
+            "author": "Ali. T",
+            "icon": "5",
+            "text": "<p>Wow, sar menkhare byes7ab baher</p>"
+          },
+          "type": "testimonial"
+        },
+        "testimonial-2": {
+          "settings": {
+            "author": "Elias . D",
+            "icon": "5",
+            "text": "<p>Ouf men wa2et ma jebta w nashat levels on the roof</p>"
+          },
+          "type": "testimonial"
+        },
+        "testimonial-3": {
+          "settings": {
+            "author": "Charbel .M",
+            "icon": "5",
+            "text": "<p>Tlo3na sarlna 20 sene ma mnetnafas mazbout</p>"
+          },
+          "type": "testimonial"
+        }
+      },
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "heading": "Testimonials",
+        "heading_alignment": "center",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "hide_images": false,
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "show_divider": false
+      },
+      "type": "testimonials"
+    }
+  }
+}
