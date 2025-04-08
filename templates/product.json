@@ -59,6 +59,19 @@
             "text_style": "body"
           }
         },
+        "variant_picker_ATyNX6": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -94,6 +107,7 @@
         "text_qngz3b",
         "vendor",
         "text_UW7N8C",
+        "variant_picker_ATyNX6",
         "buy_buttons",
         "custom_liquid_WMycmt",
         "collapsible_description_Mc7tD3",
