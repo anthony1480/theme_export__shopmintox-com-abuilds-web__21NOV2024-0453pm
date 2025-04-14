@@ -32,7 +32,7 @@
         "newsletter_text": "<p>Enter your email to always stay updated on what's new </p>",
         "return_url": "",
         "enable_follow_on_shop": false,
-        "show_social": true,
+        "show_social": false,
         "social_heading": "Stay in touch!",
         "enable_country_selector": false,
         "enable_language_selector": true,
