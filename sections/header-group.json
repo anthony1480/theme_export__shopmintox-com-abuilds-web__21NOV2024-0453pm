@@ -31,21 +31,11 @@
             "text_size": 13,
             "link": ""
           }
-        },
-        "announcement_wYmyxh": {
-          "type": "announcement",
-          "settings": {
-            "text": "Cash on Delivery",
-            "text_on_mobile": "Cash on Delivery",
-            "text_size": 14,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_WrHFMn",
-        "announcement_wYmyxh"
+        "announcement_WrHFMn"
       ],
       "settings": {
         "only_homepage": false,
