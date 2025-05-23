@@ -27,14 +27,6 @@
             "price_size": "medium"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "auto"
-          }
-        },
         "text_qngz3b": {
           "type": "text",
           "settings": {
@@ -103,7 +95,6 @@
       },
       "block_order": [
         "title",
-        "price",
         "text_qngz3b",
         "vendor",
         "text_UW7N8C",
