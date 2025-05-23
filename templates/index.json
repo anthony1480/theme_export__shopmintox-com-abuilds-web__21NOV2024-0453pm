@@ -176,14 +176,6 @@
             "price_size": "medium"
           }
         },
-        "price_Ama3iF": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "value"
-          }
-        },
         "text_TEJ66H": {
           "type": "text",
           "settings": {
@@ -253,7 +245,6 @@
       "block_order": [
         "rating_XD9eya",
         "title_4VFwKw",
-        "price_Ama3iF",
         "text_TEJ66H",
         "text_nRKnf3",
         "text_kxHhrK",
