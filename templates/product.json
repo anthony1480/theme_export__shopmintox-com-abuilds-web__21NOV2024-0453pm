@@ -38,24 +38,24 @@
         "text_qngz3b": {
           "type": "text",
           "settings": {
-            "icon": "none",
-            "text": "✨ Instant Freshness",
+            "icon": "leaf",
+            "text": "100% Hypoallergenic and Skin Friendly",
             "text_style": "body"
           }
         },
         "vendor": {
           "type": "text",
           "settings": {
-            "icon": "none",
-            "text": "✅ 98% Added Energy",
+            "icon": "lightning_bolt",
+            "text": "Immediate Nasal Relief",
             "text_style": "body"
           }
         },
         "text_UW7N8C": {
           "type": "text",
           "settings": {
-            "icon": "none",
-            "text": "😤 Breathe Like Never Before",
+            "icon": "check_mark",
+            "text": "Breathe Like You've Never Before",
             "text_style": "body"
           }
         },
@@ -68,7 +68,7 @@
             "swatches_source": "file",
             "swatch_type": "round",
             "enable_swatch_cross": true,
-            "enable_swatch_unavailable_click": false,
+            "enable_swatch_unavailable_click": true,
             "size_chart": ""
           }
         },
