@@ -17,8 +17,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "✨ 58% OFF SPRING SALE ✨",
-            "text_on_mobile": "✨ 58% OFF SPRING SALE ✨",
+            "text": "UP TO 50% OFF SPRING SALE PACKAGES",
+            "text_on_mobile": "UP TO 50% OFF SPRING SALE PACKAGES",
             "text_size": 14,
             "link": ""
           }
