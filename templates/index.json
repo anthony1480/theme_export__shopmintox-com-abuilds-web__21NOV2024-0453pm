@@ -225,7 +225,7 @@
             "swatches_source": "file",
             "swatch_type": "round",
             "enable_swatch_cross": true,
-            "enable_swatch_unavailable_click": false,
+            "enable_swatch_unavailable_click": true,
             "size_chart": ""
           }
         },
