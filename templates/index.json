@@ -208,8 +208,8 @@
             "text_style": "body"
           }
         },
-        "pumper_bundles_quantity_breaks_app_block_bundle_DXRUHx": {
-          "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
+        "pumper_bundles_quantity_breaks_app_block_qb_xHn7Gx": {
+          "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
             "selected_product": "nafasi-tape",
             "using_page_builder": false
@@ -256,7 +256,7 @@
         "text_nRKnf3",
         "text_kxHhrK",
         "text_JkKzDb",
-        "pumper_bundles_quantity_breaks_app_block_bundle_DXRUHx",
+        "pumper_bundles_quantity_breaks_app_block_qb_xHn7Gx",
         "variant_picker_PDD7c3",
         "buy_buttons_LnCkfg",
         "custom_liquid_pmCaHr",
