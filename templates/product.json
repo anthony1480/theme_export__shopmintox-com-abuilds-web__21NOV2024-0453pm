@@ -72,6 +72,14 @@
             "show_gift_card_recipient": false
           }
         },
+        "text_dUpezq": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "BLACK TAPE OUT OF STOCK | BLACK TAPE PRE-ORDERS DISPATCHED BY 28TH OF JUNE",
+            "text_style": "body"
+          }
+        },
         "custom_liquid_WMycmt": {
           "type": "custom_liquid",
           "settings": {
@@ -100,6 +108,7 @@
         "text_UW7N8C",
         "variant_picker_ATyNX6",
         "buy_buttons",
+        "text_dUpezq",
         "custom_liquid_WMycmt",
         "collapsible_description_Mc7tD3",
         "sticky_cart"
