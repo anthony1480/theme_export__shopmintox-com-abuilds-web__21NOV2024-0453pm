@@ -75,9 +75,9 @@
         "text_dUpezq": {
           "type": "text",
           "settings": {
-            "icon": "none",
+            "icon": "return",
             "text": "BLACK TAPE OUT OF STOCK | BLACK TAPE PRE-ORDERS DISPATCHED BY 28TH OF JUNE",
-            "text_style": "body"
+            "text_style": "uppercase"
           }
         },
         "custom_liquid_WMycmt": {
