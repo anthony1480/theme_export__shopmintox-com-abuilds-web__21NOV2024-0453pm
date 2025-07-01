@@ -72,14 +72,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "text_dUpezq": {
-          "type": "text",
-          "settings": {
-            "icon": "return",
-            "text": "All black tape orders will be dispatched on wednesday july 2nd this week!",
-            "text_style": "uppercase"
-          }
-        },
         "custom_liquid_WMycmt": {
           "type": "custom_liquid",
           "settings": {
@@ -108,7 +100,6 @@
         "text_UW7N8C",
         "variant_picker_ATyNX6",
         "buy_buttons",
-        "text_dUpezq",
         "custom_liquid_WMycmt",
         "collapsible_description_Mc7tD3",
         "sticky_cart"
