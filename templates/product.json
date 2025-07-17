@@ -27,16 +27,6 @@
             "price_size": "medium"
           }
         },
-        "countdown_xjE6Ld": {
-          "type": "countdown",
-          "settings": {
-            "heading": "{{ product.metafields.theme.countdown | metafield_text }}",
-            "number_size": "small",
-            "colors_heading": "#da3f3f",
-            "colors_text": "#da3f3f",
-            "colors_background": "#feeeee"
-          }
-        },
         "text_qngz3b": {
           "type": "text",
           "settings": {
@@ -105,7 +95,6 @@
       },
       "block_order": [
         "title",
-        "countdown_xjE6Ld",
         "text_qngz3b",
         "vendor",
         "text_UW7N8C",
