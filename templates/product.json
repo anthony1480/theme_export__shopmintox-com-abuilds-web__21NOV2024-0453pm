@@ -51,6 +51,16 @@
             "text_style": "body"
           }
         },
+        "countdown_fi8ic7": {
+          "type": "countdown",
+          "settings": {
+            "heading": "SALE ENDS SUNDAY JULY 20{{ product.metafields.theme.countdown | metafield_text }}",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#feeeee"
+          }
+        },
         "variant_picker_ATyNX6": {
           "type": "variant_picker",
           "settings": {
@@ -98,6 +108,7 @@
         "text_qngz3b",
         "vendor",
         "text_UW7N8C",
+        "countdown_fi8ic7",
         "variant_picker_ATyNX6",
         "buy_buttons",
         "custom_liquid_WMycmt",
