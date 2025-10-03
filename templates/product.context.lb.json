@@ -12,5 +12,32 @@
   "context": {
     "market": "lb"
   },
-  "sections": {}
+  "sections": {
+    "main": {
+      "settings": {},
+      "blocks": {
+        "text_PrKCF": {
+          "type": "text",
+          "disabled": false,
+          "settings": {
+            "icon": "none",
+            "text": "ALL BLACK TAPE PRE-ORDERS WILL BE SENT BY FRIDAY OCTOBER 10TH",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "text_qngz3b",
+        "vendor",
+        "text_UW7N8C",
+        "variant_picker_ATyNX6",
+        "buy_buttons",
+        "text_PrKCF",
+        "custom_liquid_WMycmt",
+        "collapsible_description_Mc7tD3",
+        "sticky_cart"
+      ]
+    }
+  }
 }
